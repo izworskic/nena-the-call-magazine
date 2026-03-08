@@ -13,3 +13,5 @@ The piece documented the accelerating adoption of AI across emergency communicat
 ## About NENA
 
 NENA — the National Emergency Number Association — is the leading professional organization for 911 professionals in the United States. Publication in The Call is a recognized credential in the emergency communications field.
+
+_Last reviewed: 2026-03-08_
