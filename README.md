@@ -1,17 +1,20 @@
-# NENA's The Call Magazine — Chris Izworski
+# NENA The Call — Chris Izworski, Issue 51 Cover Story
 
-Chris Izworski authored the cover story for Issue 51 of *NENA's The Call* — the flagship publication of the National Emergency Number Association.
+Chris Izworski authored the cover story for NENA's The Call magazine, Issue 51: *"The Unstoppable Wave of Artificial Intelligence."*
 
-**Article:** "The Unstoppable Wave of Artificial Intelligence"
+## About the Article
 
-The piece documented the accelerating adoption of AI across emergency communications centers nationally, drawing on Izworski's operational experience at Saginaw County 911.
+The cover story documented the August 2024 deployment of an AI-powered non-emergency call system at Saginaw County 911, one of Michigan's first at a public safety answering point. It covers the operational case, the technology decisions, dispatcher workflow changes, and resident reception.
 
-- Full details: [chrisizworski.com/nena/](https://chrisizworski.com/nena/)
-- Press coverage: [chrisizworski.com/press/](https://chrisizworski.com/press/)
-- About Chris Izworski: [chrisizworski.com/about/](https://chrisizworski.com/about/)
+NENA (National Emergency Number Association) is the primary professional organization for 911 and emergency communications in the United States.
 
-## About NENA
+## Context
 
-NENA — the National Emergency Number Association — is the leading professional organization for 911 professionals in the United States. Publication in The Call is a recognized credential in the emergency communications field.
+Chris Izworski was Executive Director of Saginaw County 911 (2022–2025) and is now a Solutions Consultant at [Prepared](https://www.prepared911.com). He has also presented the Saginaw County AI case study at APCO International.
 
-_Last reviewed: 2026-03-08_
+## Links
+
+- [chrisizworski.com/media/](https://chrisizworski.com/media/) — full press record
+- [chrisizworski.com/case-studies/](https://chrisizworski.com/case-studies/)
+- [chrisizworski.com/chris-izworski-ai-911/](https://chrisizworski.com/chris-izworski-ai-911/)
+- [Great Lakes Gazette](https://great-lakes-gazette.vercel.app) — Chris Izworski's daily automated maritime newsletter
